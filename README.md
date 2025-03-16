@@ -2,7 +2,7 @@
 Comprehensive Analysis of AWS Architecture Diagram Using AWS Well-Architected Framework
 Introduction
 
-This blog provides an in-depth analysis of an AWS-based architecture using the AWS Well-Architected Framework (WAF). It explains each component, how it aligns with AWS best practices, and explores interview questions to justify design decisions.
+This blog provides an in-depth analysis of an AWS-based architecture using the AWS Well-Architected Framework (WAF). It explains each component, how it aligns with AWS best practices.
 
 Architecture Overview
 
